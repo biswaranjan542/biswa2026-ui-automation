@@ -9,4 +9,11 @@ public class Demo1 {
 
         System.out.println("hhhhh nnnnnn ppppp");
     }
+
+    @Test
+    public void demo1234(){
+
+        System.out.println("hhhhh hhvvvvv  nnnnnn ppppp");
+    }
+}
 }
