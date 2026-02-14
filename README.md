@@ -1,2 +1,2 @@
 # biswa2026-ui-automation
-for learning
+for learning purpose
