@@ -12,6 +12,8 @@ public class Demo {
     System.out.println("hello world");
 
     System.out.println("harehare");
+    System.out.println("merge conflict from local");
+
 }
 
 
