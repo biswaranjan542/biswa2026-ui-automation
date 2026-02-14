@@ -10,6 +10,8 @@ public class Demo1 {
         System.out.println("hhhhh nnnnnn ppppp");
             System.out.println("mergeconflict2");
 
+        System.out.println("merge conflict from local");
+
     }
 
     @Test
