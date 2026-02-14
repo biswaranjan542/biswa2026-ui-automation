@@ -14,6 +14,13 @@ public class Demo1 {
     public void demo1234(){
 
         System.out.println("hhhhh hhvvvvv  nnnnnn ppppp");
+
+    }
+
+    public void demo12345(){
+
+        System.out.println("added from local");
+
     }
 }
 }
