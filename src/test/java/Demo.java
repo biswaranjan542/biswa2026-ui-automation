@@ -10,7 +10,7 @@ public class Demo {
     public void firstMethod(){
 
     System.out.println("hello world");
-
+    System.out.println("mergeconflict");
     System.out.println("harehare");
 }
 
