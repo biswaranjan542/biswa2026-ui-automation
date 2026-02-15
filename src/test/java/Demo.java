@@ -14,6 +14,9 @@ public class Demo {
     System.out.println("harehare");
     System.out.println("merge conflict from local");
 
+
+    System.out.println("fromlocal1 1st");
+
 }
 
 
